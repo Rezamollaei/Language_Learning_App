@@ -1,0 +1,1 @@
+"Created a language learning quiz app that presents users with random Spanish words, prompting them to translate them into English. The app tracks the user's score and provides feedback on their answers, displaying the correct translation when they answer incorrectly."
